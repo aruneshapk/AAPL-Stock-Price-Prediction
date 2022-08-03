@@ -5,4 +5,4 @@ Dataset collected from Kaggle. Link - https://www.kaggle.com/code/matthiasfoyer/
 Uses Concepts from Neural Networks such as Long Short Term Memory (LSTM) to train and test the data.
 Libraries Used - Matplotlib, Numpy, Pandas, Keras, Tensorflow Libraries.
 
-Used 50 DMA (50-Day Moving Average instead of 100-DMA) to improve the accuracy
+Used 50 DMA (50-Day Moving Average instead of 100-DMA) and ran the code for epochs to improve the accuracy
